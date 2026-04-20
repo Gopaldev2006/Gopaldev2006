@@ -1,3 +1,9 @@
+# 🚀 Hi 👋, I'm Gopal Agarwal
+**A 2nd year Btech CSE Student | IILM University, Greater Noida**
+
+Email Me 👉 ✉️ **gplsinghaniya@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 💬 **Ask me about:** Collaboration, Tech Support
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vihaan_agarwal221) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gopal-agarwal-737b07338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gplsinghaniya@gmail.com) 
