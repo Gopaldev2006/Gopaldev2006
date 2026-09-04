@@ -1,5 +1,56 @@
-# 🚀 Hi 👋, I'm Gopal Agarwal
-**A 2nd year Btech CSE Student | IILM University, Greater Noida**
+# 👋 Hi, I'm Gopal Agarwal
+
+### B.Tech CSE Student | AI/ML & Full-Stack Developer | Problem Solver
+
+I'm a 3rd-year B.Tech Computer Science & Engineering student at **IILM University, Greater Noida**, passionate about building practical applications using AI, machine learning, and modern web technologies.
+
+🚀 Currently working on:
+
+* 🤖 AI & Machine Learning
+* 🔐 Secure AI & Legal Document Analysis
+* 🌐 Full-Stack Web Development
+* 🧠 Data Structures & Algorithms
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, Java, C, JavaScript
+
+**Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+
+**Backend:** Python, FastAPI, Flask, Node.js
+
+**AI/ML:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, NLP, RAG, LLMs
+
+**Database:** MySQL, MongoDB, Firebase
+
+**Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Projects
+
+🔐 **Secure AI Assistant for Legal Document Analysis**
+AI-powered legal document analysis using secure RAG, NLP and privacy-aware AI.
+
+📈 **Stock Market Prediction**
+LSTM-based time-series prediction project using Python and machine learning.
+
+🤖 **Code Pilot AI**
+AI-assisted coding and developer productivity project.
+
+📄 **CERTIFY**
+Document verification platform using OCR, Firebase and blockchain concepts.
+
+### 📫 Connect With Me
+
+💼 LinkedIn: [https://www.linkedin.com/feed/]
+
+💻 GitHub: (Gopaldev2006)
+
+📧 Email: (mailto:gplsinghaniya@gmail.com)
+
+---
+
+⭐ I enjoy building projects, learning new technologies, and solving real-world problems through software.
+
 
 Email Me 👉 ✉️ **gplsinghaniya@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
